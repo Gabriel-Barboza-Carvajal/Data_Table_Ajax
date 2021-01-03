@@ -1,4 +1,5 @@
 <?php
+
 //
 //    Nombre archivo: archivo_ajax.php
 //

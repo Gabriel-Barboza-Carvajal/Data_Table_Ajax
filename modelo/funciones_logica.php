@@ -1,4 +1,5 @@
 <?php
+
 //
 //    Nombre archivo: funciones_logica.php
 //

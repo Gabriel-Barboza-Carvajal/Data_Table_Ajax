@@ -17,8 +17,7 @@
         <link href="plugins/jquery.dataTables.min.css" rel="stylesheet" type="text/css"/>      
         <script src="plugins/jquery.dataTables.min.js" type="text/javascript"></script>
         <!--FILTRO DATA_TABLE-->
-        <script src="script_tabla_filtro.js" type="text/javascript"></script>
-        
+        <script src="script_tabla_filtro.js" type="text/javascript"></script>        
     </head>
     <body style="background-color: lightgreen"> 
 
